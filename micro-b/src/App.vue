@@ -1,0 +1,3 @@
+<template>
+  micro-b
+</template>
